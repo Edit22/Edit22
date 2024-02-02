@@ -12,6 +12,7 @@
  ### Skills
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="50" height="50">
 
 <!--
 **Edit22/Edit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
