@@ -11,7 +11,7 @@
 
  ### Skills
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"> 
 
 
 <!--
