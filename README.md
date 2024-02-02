@@ -6,7 +6,7 @@ Once, I started to learn web development, and now I can't stop - it's quite addi
 My favourite weather is snowy weather, landscape - mountains, I absolutely love skiing <br>
 And I never want to retire 
 
- :compass: I'm based in England <br>
+ :compass: I'm based in England, born in Poland :poland: <br>
  :nerd_face: Currently learning JavaScript, TypeScript and React <br>
  🔭 Looking to land a permanent job as a Frontend developer<br>
  :stew: See my portfolio at:  <br>
