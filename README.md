@@ -15,7 +15,7 @@
 
  ### Socials
 
- <a href="https://www.linkedin.com/in/edyta-linert-931924249/"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png" width="40" height="40"></a>
+ <a href="https://www.linkedin.com/in/edyta-linert-931924249/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="40" height="40"></a>
 <!--
 **Edit22/Edit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
