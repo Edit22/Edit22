@@ -4,7 +4,7 @@
 
 
 
- :compass: I'm based in England 
+ :compass: I'm based in England <br>
  :nerd_face: Currently, I'm learning everything related to Frontend development 
  🔭 Looking to land a permanent job
  :stew: See mt portfolio at: 
