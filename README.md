@@ -2,7 +2,9 @@
 
 # Hi 👋 My name is Edyta Linert <br><br>
 
-
+Once, I started to learn web development, and now I can't stop <br> 
+My favourite weather is snowy weather, landscape - mountains, I 	:blue_heart: skiing <br>
+And I never want to retire 	:rocket:
 
  :compass: I'm based in England <br>
  :nerd_face: Currently, I'm learning JavaScript, TypeScript and React <br>
