@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Edyta Linert <br><br>
 
-Once, I started to learn web development, and now I can't stop it <br> 
+Once, I started to learn web development, and now I can't stop it - it's quite addictive<br> 
 My favourite weather is snowy weather, landscape - mountains, I absolutely love skiing <br>
 And I never want to retire 
 
