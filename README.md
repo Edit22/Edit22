@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-## My name is Edyta Linert
+## My name is Edyta 
+
+
+
+ :compass: I'm based in England 
+ :nerd_face: Currently, I'm learning everything related to Frontend development 
+ 🔭 Looking to land a permanent job
+ :stew: See mt portfolio at: 
 
 <!--
 **Edit22/Edit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
