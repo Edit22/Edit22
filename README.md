@@ -3,8 +3,8 @@
 # Hi 👋 My name is Edyta Linert <br><br>
 
 Once, I started to learn web development, and now I can't stop - it's quite addictive<br> 
-My favourite weather is snowy weather, landscape - mountains, I absolutely love skiing <br>
-And I never want to retire 
+My favourite weather is snowy weather, landscape - mountains, I absolutely love skiing. <br>
+And I never want to retire :)
 
  :compass: I'm based in England, born in Poland :poland: <br>
  :nerd_face: Currently learning JavaScript, TypeScript and React <br>
