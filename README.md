@@ -7,7 +7,7 @@ My favourite weather is snowy weather, landscape - mountains, I absolutely love 
 And I never want to retire 
 
  :compass: I'm based in England <br>
- :nerd_face: Currently, I'm learning JavaScript, TypeScript and React <br>
+ :nerd_face: Currently learning JavaScript, TypeScript and React <br>
  🔭 Looking to land a permanent job as a Frontend developer<br>
  :stew: See my portfolio at:  <br>
 
