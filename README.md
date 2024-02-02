@@ -6,7 +6,7 @@
 
  :compass: I'm based in England <br>
  :nerd_face: Currently, I'm learning JavaScript, TypeScript and React <br>
- 🔭 Looking to land a permanent job <br>
+ 🔭 Looking to land a permanent job as a Frontend developer<br>
  :stew: See my portfolio at:  <br>
 
  ### Skills
