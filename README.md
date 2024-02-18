@@ -9,7 +9,7 @@ And I never want to retire :)
  :compass: I'm based in England, born in Poland :poland: <br>
  :nerd_face: Currently learning JavaScript, TypeScript and React <br>
  🔭 Looking to land a permanent job as a Frontend developer<br>
- :stew: See my portfolio at:  <br>
+ :stew: See my portfolio at: https://edyta-linert-portfolio-website.netlify.app/ <br>
 
  ### Skills
 
