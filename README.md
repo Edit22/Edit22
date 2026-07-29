@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Edyta <br><br>
 
-Once, I started to learn how to code, and now I can't stop :)
+
 
  :compass: I'm based in England, born in Poland :poland: <br>
  :nerd_face: I've tried: JavaScript, TypeScript, Bootstrap, React, Dash, Plotly <br>
